@@ -14,13 +14,13 @@ export async function connectRPC() {
                 state: "revolt.chat",
                 details: "Chatting with others",
                 largeImageKey: "qr",
-                largeImageText: "Communication is critical – use Revolt.",
+                largeImageText: "Communication is critical – use TELEPORT.",
                 buttons: [
                     {
-                        label: "Join Revolt",
-                        url: "https://app.revolt.chat/",
+                        label: "Join TELEPORT",
+                        url: "https://telemost.chat/",
                     },
-                    { label: "Website", url: "https://revolt.chat" },
+                    { label: "Website", url: "https://telemost.chat" },
                 ],
             }),
         );

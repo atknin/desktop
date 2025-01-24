@@ -54,6 +54,6 @@ export function getBuildURL() {
         case "nightly":
             return "https://nightly.revolt.chat";
         default:
-            return "https://app.revolt.chat";
+            return "https://telemost.chat";
     }
 }

@@ -1,5 +1,5 @@
 {
-    "name": "revolt-desktop",
+    "name": "telemost-desktop",
     "version": "1.0.8",
     "description": "Teleport desktop app",
     "private": true,
@@ -38,7 +38,7 @@
     },
     "productName": "Teleport",
     "build": {
-        "appId": "chat.revolt.app",
+        "appId": "telemost.chat",
         "mac": {
             "target": [
                 {

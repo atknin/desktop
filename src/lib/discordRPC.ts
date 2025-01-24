@@ -11,7 +11,7 @@ export async function connectRPC() {
 
         rpc.on("ready", () =>
             rpc.setActivity({
-                state: "revolt.chat",
+                state: "telemost.chat",
                 details: "Chatting with others",
                 largeImageKey: "qr",
                 largeImageText: "Communication is critical – use TELEPORT.",
